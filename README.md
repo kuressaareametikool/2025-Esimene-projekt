@@ -29,7 +29,7 @@ Meeskonna suurus: **6 liiget**
   - Kes paneb koodi struktuuri püsti?  
 - **Tehniline algus**
   - Loo GitHubi repo ja README.  
-  - Alustage lihtsa veebilehe struktuuriga (HTML/CSS/JS või raamistik: React/Vue).  
+  - Alustage lihtsa veebilehe struktuuriga (HTML/CSS/JS).  
 
 ---
 
@@ -61,7 +61,7 @@ Meeskonna suurus: **6 liiget**
 
 - Portaal peab koosnema vähemalt järgmistest osadest:
   - **Avaleht:** sissejuhatus maailma.  
-  - **Uudised / sündmused:** dünaamiline sisu, mida saab hiljem täiendada.  
+  - **Uudised / sündmused:**
   - **Kaart:** maailmaruumi skeem või kaart.  
   - **Tegelaste profiilid:** minimaalselt 3 detailset tegelast.  
   - **Interaktiivne element:** vali-oma-seik, miniviktoriin, või muu kasutaja valikupõhine kogemus.  
@@ -70,19 +70,10 @@ Meeskonna suurus: **6 liiget**
 
 ## ⚙️ Tehnoloogia soovitused
 
-- **Esiosa:** HTML/CSS/JavaScript või React/Vue.  
-- **Kaardid:** Leaflet.js (interaktiivne kaart) või custom pildikaart koos hotspot’idega.  
+- **Esiosa:** HTML/CSS/JavaScript.  
+- **Kaardid:** custom pildikaart koos hotspot’idega.  
 - **Andmete hoidmine:** JSON fail tegelaste, sündmuste ja valikute jaoks.  
 - **Disain:** Figma / Canva prototüübid, oma graafika või vektorpildid.  
-
----
-
-## 🧩 Rollid tiimis
-
-- **2 × tehniline arendaja (vanem kursus)** – raamistik, kaardid, interaktiivne osa.  
-- **2 × sisulooja (noorem kursus)** – maailmalugu, tegelased, sündmused.  
-- **1 × disainer (noorem kursus)** – graafika, visuaalid, stiil.  
-- **1 × koordinaator/testija** – tagab tööjaotuse, testib funktsioone, valmistab ette esitluse.  
 
 ---
 
