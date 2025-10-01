@@ -10,7 +10,7 @@ Portaal peab sisaldama **sisulist lugu, tegelasi, kaarte ja interaktiivseid elem
 
 ## 🎯 Projekti ülesehitus
 
-Meeskonna suurus: **6 liiget**  
+Meeskonna suurus: **5-6 liiget**  
 - **Vanema kursuse liikmed:** tehniline raamistik, andmestruktuurid, kaardid, interaktiivne süsteem.  
 - **Noorema kursuse liikmed:** maailmalugu, tegelaste kirjeldused, visuaalid, sisu loomine.
 - **Vanema kursuse õpilased EI TOHI ise kodeerida!**
