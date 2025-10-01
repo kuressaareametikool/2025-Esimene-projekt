@@ -94,3 +94,27 @@ Meeskonna suurus: **5-6 liiget**
 - Ärge kartke lisada huumorit, üllatusi või easter egg’e – need jäävad esitlusel meelde.  
 
 ---
+
+### Botanus
+[Figma URL](https://www.figma.com/design/2bQMhHk49wwcpsIJO4mcX0/Untitled?node-id=0-1&p=f&t=D3Paibn1s3br1vlO-0)
+[Github URL](https://github.com/siimnettan/grupp_1_AI-botanus)
+
+### Team 2
+[Figma URL]()
+[Github URL]()
+
+### Team 3
+[Figma URL]()
+[Github URL]()
+
+### Team 4
+[Figma URL]()
+[Github URL]()
+
+### Team 5
+[Figma URL]()
+[Github URL]()
+
+### Team 6
+[Figma URL]()
+[Github URL]()
