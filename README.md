@@ -120,5 +120,5 @@ Meeskonna suurus: **5-6 liiget**
 [Github URL](https://github.com/kiku69/Neptunn)
 
 ### World of Monsters
-[Figma URL]()
-[Github URL]()
+[Figma URL](https://www.figma.com/design/PAvLYvYarApwcQHuhzG9Kl/EsimeneProjekt?node-id=0-1&p=f&t=lWuXsUnO596eyeqE-0)
+[Github URL](https://github.com/roberina/esimeneprojekt)
