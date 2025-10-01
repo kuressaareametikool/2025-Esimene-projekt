@@ -118,3 +118,7 @@ Meeskonna suurus: **5-6 liiget**
 ### Neptunn
 [Figma URL]()
 [Github URL](https://github.com/kiku69/Neptunn)
+
+### World of Monsters
+[Figma URL]()
+[Github URL]()
