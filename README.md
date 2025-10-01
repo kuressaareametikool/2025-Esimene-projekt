@@ -116,7 +116,7 @@ Meeskonna suurus: **5-6 liiget**
 [Github URL](https://github.com/MarellePalm/Orbion)
 
 ### Neptunn
-[Figma URL]()
+[Figma URL](https://www.figma.com/design/xbSBNZ4AeUurVawQbCLkEr/Meduariid?node-id=1-2&t=yXaYerpM3AZNNFrO-1)
 [Github URL](https://github.com/kiku69/Neptunn)
 
 ### World of Monsters
