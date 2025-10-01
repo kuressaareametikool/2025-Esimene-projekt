@@ -108,8 +108,8 @@ Meeskonna suurus: **5-6 liiget**
 [Github URL]()
 
 ### BoW (Bottle of Water)
-[Figma URL]()
-[Github URL]()
+[Figma URL](https://www.figma.com/design/3tlejozUuthdpBACuVB2N3/Untitled?node-id=1-2&t=68BStKZnjsjQAJP1-0)
+[Github URL](https://github.com/Aern-do/fantaasiamaailma)
 
 ### Orbion
 [Figma URL]()
