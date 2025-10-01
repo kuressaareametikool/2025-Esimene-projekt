@@ -112,7 +112,7 @@ Meeskonna suurus: **5-6 liiget**
 [Github URL](https://github.com/Aern-do/fantaasiamaailma)
 
 ### Orbion
-[Figma URL]()
+[Figma URL](https://www.figma.com/site/MzhTwfqYuoTsfkR6Wco9KE/Orbion?node-id=0-1&t=WdoPMyNQWg7WSPfw-1)
 [Github URL](https://github.com/MarellePalm/Orbion)
 
 ### Neptunn
