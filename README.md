@@ -99,9 +99,9 @@ Meeskonna suurus: **5-6 liiget**
 [Figma URL](https://www.figma.com/design/2bQMhHk49wwcpsIJO4mcX0/Untitled?node-id=0-1&p=f&t=D3Paibn1s3br1vlO-0)
 [Github URL](https://github.com/siimnettan/grupp_1_AI-botanus)
 
-### Team 2
-[Figma URL]()
-[Github URL]()
+### Unustatud õppeainete kool
+[Figma URL](https://www.figma.com/design/vs66074OBWJlhSnF4wzV7y/Kadunud-%C3%95ppeainete-Kool?node-id=0-1&p=f&t=2feNG0KQvop0A7mk-0)
+[Github URL](https://github.com/KadriKaljo/kadunud-oppeainete-kool)
 
 ### Team 3
 [Figma URL]()
