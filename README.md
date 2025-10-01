@@ -103,7 +103,7 @@ Meeskonna suurus: **5-6 liiget**
 [Figma URL](https://www.figma.com/design/vs66074OBWJlhSnF4wzV7y/Kadunud-%C3%95ppeainete-Kool?node-id=0-1&p=f&t=2feNG0KQvop0A7mk-0)
 [Github URL](https://github.com/KadriKaljo/kadunud-oppeainete-kool)
 
-### Team 3
+### Astra Nova
 [Figma URL]()
 [Github URL]()
 
