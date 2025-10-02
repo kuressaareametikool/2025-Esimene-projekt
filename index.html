@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <title>Interactive Galaxy VR</title>
+    <script src="https://aframe.io/releases/1.4.2/aframe.min.js"></script>
+</head>
+
+<body>
+    <a-scene background="color: #000000">
+    <a-sky src="/Surfaces/8k_stars_milky_way.jpg" rotation="0 -90 0"></a-sky>
+        <a-entity position="0 1.6 0">
+            <a-camera>
+                <a-cursor id="cursor" fuse="true" timeout="1000" color="#ffffff"></a-cursor>
+            </a-camera>
+        </a-entity>
+
+        <a-entity id="planets">
+            <!-- Planet 1 -->
+        <a-sphere id="planet1" class="clickable" position="3 1.5 -5" radius="0.5" material="src: url(Surfaces/2k_jupiter.jpg)"></a-sphere>
+        <a-text id="desc1" value="Welcome to the War of Neptunn" position="3 2.3 -5" align="center" color="#FFFFFF" visible="false" look-at="[camera]"></a-text>
+        
+        <!-- Planet 2 -->
+        <a-sphere id="planet2" class="clickable" position="-3 1.5 -5" radius="0.5" material="src: url(Surfaces/2k_mars.jpg)"></a-sphere>
+        <a-text id="desc2" value="Mars - The red planet" position="-3 2.3 -5" align="center" color="#FFFFFF" visible="false" look-at="[camera]"></a-text>
+        
+        <!-- Planet 3 -->
+        <a-sphere id="planet3" class="clickable" position="5 1.5 0" radius="0.5" material="src: url(Surfaces/2k_mercury.jpg)"></a-sphere>
+        <a-text id="desc3" value="Mercury - Fast and small" position="5 2.3 0" align="center" color="#FFFFFF" visible="false" look-at="[camera]"></a-text>
+        
+        <!-- Planet 4 -->
+        <a-sphere id="planet4" class="clickable" position="-5 1.5 0" radius="0.5" material="src: url(Surfaces/2k_neptune.jpg)"></a-sphere>
+        <a-text id="desc4" value="Neptune - The windy planet" position="-5 2.3 0" align="center" color="#FFFFFF" visible="false" look-at="[camera]"></a-text>
+        
+        <!-- Planet 5 -->
+        <a-sphere id="planet5" class="clickable" position="3 1.5 5" radius="0.5" material="src: url(Surfaces/2k_saturn.jpg)"></a-sphere>
+        <a-text id="desc5" value="Saturn - The ringed one" position="3 2.3 5" align="center" color="#FFFFFF" visible="false" look-at="[camera]"></a-text>
+        
+        <!-- Planet 6 -->
+        <a-sphere id="planet6" class="clickable" position="-3 1.5 5" radius="0.5" material="src: url(Surfaces/2K_venus_surface.jpg)"></a-sphere>
+        <a-text id="desc6" value="Venus - The hot planet" position="-3 2.3 5" align="center" color="#FFFFFF" visible="false" look-at="[camera]"></a-text>
+        
+        <!-- Planet 7 -->
+        <a-sphere id="planet7" class="clickable" position="0 1.5 -7" radius="0.5" material="src: url(Surfaces/2K_venus_atmosphere.jpg)"></a-sphere>
+        <a-text id="desc7" value="Uranus - The icy planet" position="0 2.3 -7" align="center" color="#FFFFFF" visible="false" look-at="[camera]"></a-text>
+        </a-entity>
+        </a-entity>
+
+        <script>
+            const planetLinks = {
+                planet1: "https://neptunnn.netlify.app",
+                planet2: "https://example2.com",
+                planet3: "https://example3.com",
+                planet4: "https://example4.com",
+                planet5: "https://example5.com",
+                planet6: "https://example6.com",
+                planet7: "https://example7.com"
+            };
+
+            const descriptions = {
+                planet1: "desc1",
+                planet2: "desc2",
+                planet3: "desc3",
+                planet4: "desc4",
+                planet5: "desc5",
+                planet6: "desc6",
+                planet7: "desc7"
+            };
+
+            Object.keys(planetLinks).forEach(id => {
+                const planet = document.getElementById(id);
+                const desc = document.getElementById(descriptions[id]);
+                planet.addEventListener("click", () => {
+                    window.location.href = planetLinks[id];
+                });
+                planet.addEventListener("mouseenter", () => {
+                    desc.setAttribute("visible", "true");
+                });
+                planet.addEventListener("mouseleave", () => {
+                    desc.setAttribute("visible", "false");
+                });
+            });
+        </script>
+    </a-scene>
+</body>
+
+</html>
