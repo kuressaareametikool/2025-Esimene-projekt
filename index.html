@@ -15,6 +15,14 @@
                 <a-cursor id="cursor" fuse="true" timeout="1000" color="#ffffff"></a-cursor>
             </a-camera>
         </a-entity>
+            <a-entity id="purple-orbit" position="0 1.6 0">
+                <a-sphere radius="0.5" color="#9b59b6" orbit="radius:6; speed:0.0008; height:1"></a-sphere>
+                <a-sphere radius="0.4" color="#8e44ad" orbit="radius:8; speed:0.0012; height:-1.5"></a-sphere>
+                <a-sphere radius="0.6" color="#7d3c98" orbit="radius:7; speed:0.0009; height:0.5"></a-sphere>
+                <a-sphere radius="0.45" color="#6a1b9a" orbit="radius:9; speed:0.001; height:-0.8"></a-sphere>
+                <a-sphere radius="0.35" color="#9c27b0" orbit="radius:5; speed:0.0015; height:2"></a-sphere>
+            </a-entity>
+        
 
         <a-entity id="planets">
             <!-- Planet 1 -->
@@ -81,6 +89,26 @@
                     desc.setAttribute("visible", "false");
                 });
             });
+
+            AFRAME.registerComponent('orbit', {
+                    schema: {
+                        radius: { type: 'number', default: 5 },
+                        speed: { type: 'number', default: 0.001 },
+                        height: { type: 'number', default: 0 }
+                    },
+                    tick: function (time) {
+                        const el = this.el;
+                        const r = this.data.radius;
+                        const speed = this.data.speed;
+                        const h = this.data.height;
+                        const angle = time * speed;
+                        el.setAttribute('position', {
+                            x: r * Math.cos(angle),
+                            y: h,
+                            z: r * Math.sin(angle)
+                        });
+                    }
+                });
         </script>
     </a-scene>
 </body>
