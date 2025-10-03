@@ -126,7 +126,7 @@ Meeskonna suurus: **5-6 liiget**
 ### Neptunn
 [Figma URL](https://www.figma.com/design/xbSBNZ4AeUurVawQbCLkEr/Meduariid?node-id=1-2&t=yXaYerpM3AZNNFrO-1)
 [Github URL](https://github.com/kiku69/Neptunn)
-[Live URL]([https://neptunnn.netlify.app/])
+[Live URL](https://neptunnn.netlify.app/)
 
 ### World of Monsters
 [Figma URL](https://www.figma.com/design/PAvLYvYarApwcQHuhzG9Kl/EsimeneProjekt?node-id=0-1&p=f&t=lWuXsUnO596eyeqE-0)
