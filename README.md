@@ -101,27 +101,34 @@ Meeskonna suurus: **5-6 liiget**
 ### Botanus
 [Figma URL](https://www.figma.com/design/2bQMhHk49wwcpsIJO4mcX0/Untitled?node-id=0-1&p=f&t=D3Paibn1s3br1vlO-0)
 [Github URL](https://github.com/siimnettan/grupp_1_AI-botanus)
+[Live URL](https://botanus.neocities.org/)
 
 ### The School of Lost Subjects
 [Figma URL](https://www.figma.com/design/vs66074OBWJlhSnF4wzV7y/Kadunud-%C3%95ppeainete-Kool?node-id=0-1&p=f&t=2feNG0KQvop0A7mk-0)
 [Github URL](https://github.com/KadriKaljo/kadunud-oppeainete-kool)
+[Live URL](https://moonlit-raindrop-b89124.netlify.app/)
 
 ### Astra Nova
 [Figma URL](https://www.figma.com/design/rnMUHB8AQD9mFdSzXH6rgp/AstroNova?node-id=0-1&p=f&t=rYsCYTv57mN4263f-0)
 [Github URL](https://github.com/pokram/astranova)
+[Live URL](https://ta24latt.itmajakas.ee/)
 
 ### BoW (Bottle of Water)
 [Figma URL](https://www.figma.com/design/3tlejozUuthdpBACuVB2N3/Untitled?node-id=1-2&t=68BStKZnjsjQAJP1-0)
 [Github URL](https://github.com/Aern-do/fantaasiamaailma)
+[Live URL](https://fantaasiamaailma.vercel.app/)
 
 ### Orbion
 [Figma URL](https://www.figma.com/site/MzhTwfqYuoTsfkR6Wco9KE/Orbion?node-id=0-1&t=WdoPMyNQWg7WSPfw-1)
 [Github URL](https://github.com/MarellePalm/Orbion)
+[Live URL](https://orbion-xi.vercel.app/index.html)
 
 ### Neptunn
 [Figma URL](https://www.figma.com/design/xbSBNZ4AeUurVawQbCLkEr/Meduariid?node-id=1-2&t=yXaYerpM3AZNNFrO-1)
 [Github URL](https://github.com/kiku69/Neptunn)
+[Live URL]([https://neptunnn.netlify.app/])
 
 ### World of Monsters
 [Figma URL](https://www.figma.com/design/PAvLYvYarApwcQHuhzG9Kl/EsimeneProjekt?node-id=0-1&p=f&t=lWuXsUnO596eyeqE-0)
 [Github URL](https://github.com/roberina/esimeneprojekt)
+[Live URL](https://esimeneprojekt.vercel.app/#)
