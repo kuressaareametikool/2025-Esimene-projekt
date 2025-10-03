@@ -1,5 +1,8 @@
 # 🌌 Fantaasiamaailma Infoportaal
 
+**Projektide sisenemine**
+https://esimeneprojekt.netlify.app/
+
 **Projekti eesmärk:**  
 Luua 3 päeva jooksul meeskondade kaupa **veebipõhine infoportaal väljamõeldud maailmast**.  
 See võib olla tuleviku küberkool, kosmoselaev, postapokalüptiline linn või mõni muu maailmaidee, mille tiim ise loob.  
